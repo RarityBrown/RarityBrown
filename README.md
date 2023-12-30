@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+- 👋 Hi, I'm @RarityBrown.
+- 🔭 I’m currently working on Time-Domain Digital Temperature Sensor.
+- 🌱 I’m currently learning EE / IC / Semiconductor / Microelectronics.
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: GitHub issue
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
 <!--
 **RarityBrown/RarityBrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
