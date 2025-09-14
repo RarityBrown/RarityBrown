@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👋 Hi, I'm @RarityBrown.
-- 🔭 I’m currently working on Integrated CMOS Temperature Sensor.
+- 🔭 I’m currently working on ~~Integrated CMOS Temperature Sensor~~ High Speed ADCs.
 - 🌱 I’m currently learning Analog IC.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
